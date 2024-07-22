@@ -7,7 +7,7 @@ import {useNavigate} from 'react-router-dom'
 
 export const PreJoinPage = () => {
     // state to pass onto room
-    const [url, setUrl] = useState('ws://localhost:7880')
+    const [url, setUrl] = useState('')
     const [token, setToken] = useState<string>('')
     const [simulcast, setSimulcast] = useState(true)
     const [dynacast, setDynacast] = useState(true)

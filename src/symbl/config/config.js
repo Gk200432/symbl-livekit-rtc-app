@@ -1,6 +1,6 @@
 const config = {
-    appId: '',
-    appSecret: '',
+    appId: '354a5731745a504b72306a37317353327335793265306d54433043396351594e',
+    appSecret: '6865546239725448545a37495a794a4557735f305166654a6a4d3269664152713263394c34785452674a4e58516e4842356b726f4f7358335842454d4f653038',
     generateTokenEndpoint: 'https://api.symbl.ai/oauth2/token:generate',
     wssBasePath: 'wss://api.symbl.ai',
     apiBasePath: 'https://api.symbl.ai',

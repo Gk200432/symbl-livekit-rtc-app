@@ -28,6 +28,42 @@
   color: #61dafb;
 }
 
+
+.chatContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 300px;
+  border-left: 1px solid #ccc;
+}
+
+.messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.message {
+  margin-bottom: 10px;
+}
+
+.inputContainer {
+  display: flex;
+  padding: 10px;
+  border-top: 1px solid #ccc;
+}
+
+.inputContainer input {
+  flex: 1;
+  padding: 5px;
+  margin-right: 5px;
+}
+
+.inputContainer button {
+  padding: 5px 10px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
