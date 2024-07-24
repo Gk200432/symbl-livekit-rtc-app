@@ -138,22 +138,6 @@ The application will be started at [http://localhost:3000](http://localhost:3000
     >
     >Additionally, if you would like to invite other participants to a room, each participant would need to have their own installation of this application and use the same room name and Account SID (the API Key and Secret can be different).
 
-## Screenshots
-
-- Live Closed Captioning
-  >  ![Live Closed Captioning](screenshots/Live_Closed_Captioning.png)
-
-- Real-time Transcripts, Insights (Action Items, Questions and Follow Ups), Topics and Trackers 
-  >  ![Real-time_Transcripts_Insights_Topics_Trackers](screenshots/Real-time_Transcripts_Insights_Topics_Trackers.png)
-
-- Real-time Topics with sentiments
-  >  ![Real-time_Topics_With_Sentiments](screenshots/Real-time_Topics_With_Sentiments.png)
-
-- Sentiment and Meeting Analytics
-  >  ![Sentiment_And_Meeting_Analytics](screenshots/Sentiment_And_Meeting_Analytics.png)
-
-- Sentiment Analysis with overall sentiment
-  >  ![Sentiment_Analysis_With_Overall_Sentiment](screenshots/Sentiment_Analysis_With_Overall_Sentiment.png)
 
 ## Community
 
