@@ -22,7 +22,6 @@ Symbl's APIs empower developers to enable:
     - [Setup](#setup)
     - [Run Locally](#run-locally)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Community](#community)
 - [License](#license)
 
