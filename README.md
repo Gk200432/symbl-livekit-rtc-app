@@ -177,4 +177,5 @@ This library is released under the [MIT][license]
 [symbl_signup]: https://platform.symbl.ai/#/signup?utm_source=get-info&utm_medium=marcelo&utm_campaign=rep
 [livekit_example_react_app]: https://github.com/livekit/livekit-react/tree/master/example
 [livekit_react_sdk]: https://github.com/livekit/livekit-react
-[create_react_app_link]: https://github.com/facebook/create-react-app
+[create_react_app_link]: https://github.com/facebook/create-react-app#   P r o j e c t - I n t e n s - 4 - - - T e a m - 1  
+ 
